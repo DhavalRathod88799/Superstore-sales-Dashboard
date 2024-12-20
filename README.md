@@ -52,3 +52,14 @@ The map visualization indicates:
 5. Seasonal Promotions
     * Capitalize on peaks in March and December with targeted discounts and offers.
 
+
+## __Contact 📬__
+
+Feel free to reach out for feedback, suggestions, or discussions 
+
+Dhaval Rathod
+
+📧 Email: dhavalrathod6452@gmail.com
+
+Let’s connect and make data science even more exciting!
+
